@@ -3,7 +3,7 @@ import re # Regular expressions library for pattern matching
 
 print("Script started")
 
-pdf_path = "data/Nur125.pdf" # Path to the pdf file to be processed
+pdf_path = "data/input/Nur125.pdf" # Path to the pdf file to be processed
 
 def is_student_row(line):
     if not line:

@@ -3,6 +3,8 @@ __pycache__/
 *.pyc
 .DS_Store
 
+data/*.pdf
+data/*.csv
 data/input/*.pdf
 data/input/*.csv
 data/output/*.csv
